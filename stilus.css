@@ -1,0 +1,28 @@
+.kiv {
+    background-color: antiquewhite;
+}
+tr{
+    border-bottom: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    
+}
+td{
+    padding: 15px;
+}
+img{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+.galeria{
+    flex: 0 0 300px;
+}
